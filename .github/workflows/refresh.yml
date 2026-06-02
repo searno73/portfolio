@@ -2,8 +2,8 @@ name: Refresh Portfolio Data
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # S'exécute toutes les 15 minutes
-  workflow_dispatch: # Permet de forcer manuellement le rafraîchissement si besoin
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   refresh:
@@ -18,7 +18,9 @@ jobs:
         python-version: '3.10'
 
     - name: Install Dependencies
-      run: pip install pandas requests
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas requests openpyxl
 
     - name: Fetch Google Sheet Data
       run: python fetch_data.py
