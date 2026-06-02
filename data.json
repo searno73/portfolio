@@ -1,7 +1,7 @@
 [
     {
-        "style": "ETF CHINA TECH",
-        "name": "Etf china tech",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "CQQQ",
         "px_achat": 67.76,
         "px_actuel": 52.31,
@@ -12,8 +12,8 @@
         "upside": 0.0
     },
     {
-        "style": "PINDUODUO",
-        "name": "Pinduoduo",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "PDD",
         "px_achat": 109.72,
         "px_actuel": 87.2,
@@ -24,8 +24,8 @@
         "upside": 0.37614678899082565
     },
     {
-        "style": "AMAZON",
-        "name": "Amazon",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "AMZN",
         "px_achat": 204.84,
         "px_actuel": 261.3,
@@ -36,20 +36,20 @@
         "upside": 0.1940298507462686
     },
     {
-        "style": "META PLATFORM",
-        "name": "Meta platform",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "META",
         "px_achat": 309.1,
         "px_actuel": 600.5,
         "dcf_cible": 825.0,
-        "valeur_chf": 18865.0,
+        "valeur_chf": 18866.0,
         "perf_tot": 0.943,
         "ytd": -0.09,
         "upside": 0.37385512073272276
     },
     {
-        "style": "APPLE",
-        "name": "Apple",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "AAPL",
         "px_achat": 146.3,
         "px_actuel": 306.3,
@@ -60,20 +60,20 @@
         "upside": 0.008814887365328072
     },
     {
-        "style": "MICROSOFT",
-        "name": "Microsoft",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "MSFT",
         "px_achat": 299.74,
         "px_actuel": 460.5,
         "dcf_cible": 560.0,
-        "valeur_chf": 23511.0,
+        "valeur_chf": 23512.0,
         "perf_tot": 0.536,
         "ytd": -0.048,
         "upside": 0.21606948968512488
     },
     {
-        "style": "ALPHABET",
-        "name": "Alphabet",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "GOOGL",
         "px_achat": 153.33,
         "px_actuel": 376.4,
@@ -84,20 +84,20 @@
         "upside": 0.13974495217853355
     },
     {
-        "style": "ADOBE",
-        "name": "Adobe",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "ADBE",
         "px_achat": 365.94,
         "px_actuel": 274.0,
         "dcf_cible": 327.0,
-        "valeur_chf": 7748.0,
+        "valeur_chf": 7749.0,
         "perf_tot": -0.251,
         "ytd": -0.217,
         "upside": 0.19343065693430658
     },
     {
-        "style": "SALESFORCE",
-        "name": "Salesforce",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "CRM",
         "px_achat": 243.17,
         "px_actuel": 209.6,
@@ -108,8 +108,8 @@
         "upside": 0.21660305343511455
     },
     {
-        "style": "REDDIT",
-        "name": "Reddit",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "RDDT",
         "px_achat": 155.6,
         "px_actuel": 177.85,
@@ -120,20 +120,20 @@
         "upside": 0.2651110486364915
     },
     {
-        "style": "AMADEUS IT GROUP",
-        "name": "Amadeus it group",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "BME:AMS",
         "px_achat": 57.84,
-        "px_actuel": 56.52,
+        "px_actuel": 56.38,
         "dcf_cible": 68.0,
-        "valeur_chf": 12927.0,
-        "perf_tot": -0.023,
-        "ytd": -0.102,
-        "upside": 0.2031139419674451
+        "valeur_chf": 12895.0,
+        "perf_tot": -0.025,
+        "ytd": -0.10400000000000001,
+        "upside": 0.2061014544164597
     },
     {
-        "style": "ZALANDO",
-        "name": "Zalando",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "ZAL",
         "px_achat": 19.66,
         "px_actuel": 23.99,
@@ -144,8 +144,8 @@
         "upside": 0.5006252605252189
     },
     {
-        "style": "BOOKING",
-        "name": "Booking",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "BKNG",
         "px_achat": 188.01,
         "px_actuel": 169.0,
@@ -156,8 +156,8 @@
         "upside": 0.3254437869822485
     },
     {
-        "style": "VISA",
-        "name": "Visa",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "V",
         "px_achat": 238.34,
         "px_actuel": 322.8,
@@ -168,8 +168,8 @@
         "upside": 0.23915737298636922
     },
     {
-        "style": "BLACKROCK",
-        "name": "Blackrock",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "BLK",
         "px_achat": 859.38,
         "px_actuel": 1021.0,
@@ -180,8 +180,8 @@
         "upside": 0.22428991185112634
     },
     {
-        "style": "S&P GLOBAL",
-        "name": "S&p global",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "SPGI",
         "px_achat": 458.51,
         "px_actuel": 428.6,
@@ -192,8 +192,8 @@
         "upside": 0.2459169388707419
     },
     {
-        "style": "BERKSHIRE HATHAWAY",
-        "name": "Berkshire hathaway",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "BRK.B",
         "px_achat": 480.73,
         "px_actuel": 470.3,
@@ -204,8 +204,8 @@
         "upside": 0.08441420369976609
     },
     {
-        "style": "MARKEL GROUP",
-        "name": "Markel group",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "MKL",
         "px_achat": 1831.52,
         "px_actuel": 1789.7,
@@ -216,20 +216,20 @@
         "upside": 0.11750572721685196
     },
     {
-        "style": "WOLTERS KLUWER",
-        "name": "Wolters kluwer",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "WKL",
         "px_achat": 72.77,
         "px_actuel": 64.74,
         "dcf_cible": 108.0,
-        "valeur_chf": 13623.0,
+        "valeur_chf": 13622.0,
         "perf_tot": -0.11,
         "ytd": -0.272,
         "upside": 0.6682113067655238
     },
     {
-        "style": "EURONEXT",
-        "name": "Euronext",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "EPA:ENX",
         "px_achat": 126.21,
         "px_actuel": 141.2,
@@ -240,8 +240,8 @@
         "upside": 0.09065155807365448
     },
     {
-        "style": "SWISSQUOTE",
-        "name": "Swissquote",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "SQN.SW",
         "px_achat": 30.12,
         "px_actuel": 40.1,
@@ -252,20 +252,20 @@
         "upside": 0.22194513715710718
     },
     {
-        "style": "PARTNERS GROUP",
-        "name": "Partners group",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "PGHN.SW",
         "px_achat": 926.34,
-        "px_actuel": 847.2,
+        "px_actuel": 847.0,
         "dcf_cible": 1155.0,
-        "valeur_chf": 13555.0,
-        "perf_tot": -0.085,
-        "ytd": -0.177,
-        "upside": 0.36331444759206794
+        "valeur_chf": 13552.0,
+        "perf_tot": -0.086,
+        "ytd": -0.17800000000000002,
+        "upside": 0.36363636363636365
     },
     {
-        "style": "STRATEGY",
-        "name": "Strategy",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "MSTR",
         "px_achat": 127.69,
         "px_actuel": 149.8,
@@ -276,8 +276,8 @@
         "upside": 0.0
     },
     {
-        "style": "FISERV",
-        "name": "Fiserv",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "FISV",
         "px_achat": 119.63,
         "px_actuel": 59.05,
@@ -288,8 +288,8 @@
         "upside": 0.18543607112616434
     },
     {
-        "style": "UNITED HEALTH GROUP",
-        "name": "United health group",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "UNH",
         "px_achat": 401.25,
         "px_actuel": 379.9,
@@ -300,44 +300,44 @@
         "upside": 0.05290866017372999
     },
     {
-        "style": "SAFRAN",
-        "name": "Safran",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "EPA:SAF",
         "px_achat": 298.04,
-        "px_actuel": 299.7,
+        "px_actuel": 299.3,
         "dcf_cible": 343.0,
-        "valeur_chf": 5210.0,
-        "perf_tot": 0.006,
-        "ytd": -0.024,
-        "upside": 0.14447781114447786
+        "valeur_chf": 5202.0,
+        "perf_tot": 0.004,
+        "ytd": -0.026000000000000002,
+        "upside": 0.1460073504844637
     },
     {
-        "style": "VONOVIA",
-        "name": "Vonovia",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "VNA.DE",
         "px_achat": 42.22,
-        "px_actuel": 21.25,
+        "px_actuel": 21.22,
         "dcf_cible": 33.0,
-        "valeur_chf": 15553.0,
+        "valeur_chf": 15530.0,
         "perf_tot": -0.49700000000000005,
-        "ytd": -0.132,
-        "upside": 0.5529411764705883
+        "ytd": -0.133,
+        "upside": 0.5551366635249765
     },
     {
-        "style": "ETF S&P 500",
-        "name": "Etf s&p 500",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "CSSPX.SW",
         "px_achat": 600.73,
-        "px_actuel": 817.2,
+        "px_actuel": 816.9,
         "dcf_cible": 0.0,
-        "valeur_chf": 215025.0,
+        "valeur_chf": 214947.0,
         "perf_tot": 0.36,
-        "ytd": 0.10400000000000001,
+        "ytd": 0.10300000000000001,
         "upside": 0.0
     },
     {
-        "style": "ETF MSCI EM",
-        "name": "Etf msci em",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "EIMI.SW",
         "px_achat": 40.91,
         "px_actuel": 57.14,
@@ -348,8 +348,8 @@
         "upside": 0.0
     },
     {
-        "style": "ETF EUROPE-EDGED CHF",
-        "name": "Etf europe-edged chf",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "EMUCHF.SW",
         "px_achat": 18.87,
         "px_actuel": 27.49,
@@ -360,8 +360,8 @@
         "upside": 0.0
     },
     {
-        "style": "ETF MSCI ACWI-USD",
-        "name": "Etf msci acwi-usd",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "NASDAQ:ACWI",
         "px_achat": 0.0,
         "px_actuel": 159.1,
@@ -372,11 +372,11 @@
         "upside": 0.0
     },
     {
-        "style": "NAN",
+        "style": "QUALITY",
         "name": "Nan",
         "ticker": "USD/CHF",
         "px_achat": 0.0,
-        "px_actuel": 0.7854,
+        "px_actuel": 0.7855,
         "dcf_cible": 0.0,
         "valeur_chf": 0.0,
         "perf_tot": 0.0,
@@ -384,8 +384,8 @@
         "upside": 0.0
     },
     {
-        "style": "ETF MSCI WORLD-USD",
-        "name": "Etf msci world-usd",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "URTH",
         "px_achat": 0.0,
         "px_actuel": 205.36,
@@ -396,11 +396,11 @@
         "upside": 0.0
     },
     {
-        "style": "NAN",
+        "style": "QUALITY",
         "name": "Nan",
         "ticker": "USD/CHF",
         "px_achat": 0.0,
-        "px_actuel": 0.7854,
+        "px_actuel": 0.7855,
         "dcf_cible": 0.0,
         "valeur_chf": 0.0,
         "perf_tot": 0.0,
@@ -408,8 +408,8 @@
         "upside": 0.0
     },
     {
-        "style": "ETF MSCI WORLD HEDGED-CHF",
-        "name": "Etf msci world hedged-chf",
+        "style": "QUALITY",
+        "name": "Nan",
         "ticker": "IWDC.SW",
         "px_achat": 0.0,
         "px_actuel": 93.59,
