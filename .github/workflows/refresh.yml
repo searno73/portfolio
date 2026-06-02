@@ -20,7 +20,7 @@ jobs:
     - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pandas requests openpyxl
+        pip install pandas requests
 
     - name: Fetch Google Sheet Data
       run: python fetch_data.py
@@ -30,5 +30,4 @@ jobs:
         git config --global user.name "PORTFX-Bot"
         git config --global user.email "bot@portfx.local"
         git add data.json
-        git commit -m "MAJ automatique des données" || exit 0
-        git push
+        git diff-index --quiet HEAD || (git commit -m "MAJ automatique des données" && git push)
