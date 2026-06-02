@@ -1,6 +1,8 @@
 import pandas as pd
 import json
 import sys
+import requests
+import io
 
 # TON LIEN GOOGLE SHEET PUBLIÉ EN CSV
 SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vT47ujfdBRIw6zeueBvuFWKagcl47oy8AcORsLKgiCpP7U-Eh01bcC2MZ77VC5pfAWN4xRDCfA-0hHI/pub?gid=14&single=true&output=csv"
@@ -23,8 +25,15 @@ def clean_float(val):
 
 def main():
     try:
-        # Lecture du fichier CSV
-        df = pd.read_csv(SHEET_CSV_URL)
+        # Contournement de l'erreur réseau : Simuler un navigateur (User-Agent)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+        response = requests.get(SHEET_CSV_URL, headers=headers, timeout=15)
+        response.raise_for_status() # Lève une erreur si le téléchargement échoue
+        
+        # Chargement du contenu CSV téléchargé
+        df = pd.read_csv(io.StringIO(response.text))
         
         # Nettoyage forcé des espaces et sauts de ligne dans les noms des colonnes
         df.columns = [str(c).replace('\n', ' ').replace('  ', ' ').strip() for c in df.columns]
@@ -34,18 +43,15 @@ def main():
         
         # Parcourir les lignes du tableau
         for _, row in df.iterrows():
-            # Trouver la colonne Ticker (souvent la 2ème colonne, ou appelée 'Stock Ticker' / 'Ticker')
             ticker_val = row.iloc[1] if len(row) > 1 else None
             for col in df.columns:
                 if 'ticker' in col.lower():
                     ticker_val = row[col]
                     break
             
-            # Si pas de ticker ou si c'est une ligne de total, on passe
             if pd.isna(ticker_val) or str(ticker_val).strip() == '' or 'total' in str(ticker_val).lower():
                 continue
             
-            # Extraction intelligente des colonnes par mots-clés
             item = {
                 "style": "QUALITY",
                 "name": "Inconnu",
@@ -77,11 +83,9 @@ def main():
                 elif "ytd" in c_low:
                     item["ytd"] = clean_percentage(row[col])
             
-            # Correction si le nom est vide
             if item["name"] == "Inconnu" and len(row) > 0:
                 item["name"] = str(row.iloc[0]).capitalize().strip()
                 
-            # Calcul de l'upside
             if item["dcf_cible"] and item["px_actuel"] > 0:
                 item["upside"] = (item["dcf_cible"] - item["px_actuel"]) / item["px_actuel"]
             else:
@@ -89,7 +93,6 @@ def main():
                 
             portfolio_items.append(item)
             
-        # Si le tableau est vide, erreur volontaire pour le log
         if not portfolio_items:
             print("Erreur : Aucune donnée valide extraite du Google Sheet.")
             sys.exit(1)
