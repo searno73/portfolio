@@ -6,7 +6,7 @@
         "px_achat": 67.76,
         "px_actuel": 54.09,
         "dcf_cible": 0.0,
-        "valeur_chf": 23838.0,
+        "valeur_chf": 23940.0,
         "perf_tot": -0.20199999999999999,
         "ytd": 0.04,
         "upside": 0.0
@@ -18,7 +18,7 @@
         "px_achat": 109.72,
         "px_actuel": 88.2,
         "dcf_cible": 120.0,
-        "valeur_chf": 10409.0,
+        "valeur_chf": 10454.0,
         "perf_tot": -0.196,
         "ytd": -0.222,
         "upside": 0.3605442176870748
@@ -30,7 +30,7 @@
         "px_achat": 204.84,
         "px_actuel": 256.5,
         "dcf_cible": 312.0,
-        "valeur_chf": 23216.0,
+        "valeur_chf": 23315.0,
         "perf_tot": 0.252,
         "ytd": 0.111,
         "upside": 0.21637426900584794
@@ -42,7 +42,7 @@
         "px_achat": 309.1,
         "px_actuel": 597.6,
         "dcf_cible": 825.0,
-        "valeur_chf": 18813.0,
+        "valeur_chf": 18893.0,
         "perf_tot": 0.9329999999999999,
         "ytd": -0.095,
         "upside": 0.3805220883534136
@@ -54,7 +54,7 @@
         "px_achat": 146.3,
         "px_actuel": 315.2,
         "dcf_cible": 309.0,
-        "valeur_chf": 24805.0,
+        "valeur_chf": 24912.0,
         "perf_tot": 1.1540000000000001,
         "ytd": 0.159,
         "upside": -0.019670050761421285
@@ -66,7 +66,7 @@
         "px_achat": 299.74,
         "px_actuel": 441.3,
         "dcf_cible": 560.0,
-        "valeur_chf": 22574.0,
+        "valeur_chf": 22671.0,
         "perf_tot": 0.47200000000000003,
         "ytd": -0.087,
         "upside": 0.2689780194878767
@@ -78,7 +78,7 @@
         "px_achat": 153.33,
         "px_actuel": 361.9,
         "dcf_cible": 429.0,
-        "valeur_chf": 28477.0,
+        "valeur_chf": 28599.0,
         "perf_tot": 1.36,
         "ytd": 0.156,
         "upside": 0.18541033434650464
@@ -90,7 +90,7 @@
         "px_achat": 365.94,
         "px_actuel": 262.1,
         "dcf_cible": 327.0,
-        "valeur_chf": 7426.0,
+        "valeur_chf": 7458.0,
         "perf_tot": -0.284,
         "ytd": -0.251,
         "upside": 0.24761541396413572
@@ -102,7 +102,7 @@
         "px_achat": 243.17,
         "px_actuel": 200.8,
         "dcf_cible": 255.0,
-        "valeur_chf": 11064.0,
+        "valeur_chf": 11111.0,
         "perf_tot": -0.174,
         "ytd": -0.242,
         "upside": 0.26992031872509953
@@ -114,7 +114,7 @@
         "px_achat": 155.6,
         "px_actuel": 169.13,
         "dcf_cible": 225.0,
-        "valeur_chf": 9317.0,
+        "valeur_chf": 9357.0,
         "perf_tot": 0.087,
         "ytd": -0.265,
         "upside": 0.3303376101223911
@@ -124,24 +124,24 @@
         "name": "Nan",
         "ticker": "BME:AMS",
         "px_achat": 57.84,
-        "px_actuel": 54.46,
+        "px_actuel": 53.74,
         "dcf_cible": 68.0,
-        "valeur_chf": 12465.0,
-        "perf_tot": -0.057999999999999996,
-        "ytd": -0.135,
-        "upside": 0.24862284245317662
+        "valeur_chf": 12318.0,
+        "perf_tot": -0.071,
+        "ytd": -0.146,
+        "upside": 0.26535169333829545
     },
     {
         "style": "QUALITY",
         "name": "Nan",
         "ticker": "ZAL",
         "px_achat": 19.66,
-        "px_actuel": 23.58,
+        "px_actuel": 24.14,
         "dcf_cible": 36.0,
-        "valeur_chf": 6476.0,
-        "perf_tot": 0.19899999999999998,
-        "ytd": -0.044000000000000004,
-        "upside": 0.5267175572519085
+        "valeur_chf": 6640.0,
+        "perf_tot": 0.228,
+        "ytd": -0.021,
+        "upside": 0.4913007456503728
     },
     {
         "style": "QUALITY",
@@ -150,7 +150,7 @@
         "px_achat": 188.01,
         "px_actuel": 167.0,
         "dcf_cible": 224.0,
-        "valeur_chf": 16449.0,
+        "valeur_chf": 16519.0,
         "perf_tot": -0.111,
         "ytd": -0.21899999999999997,
         "upside": 0.3413173652694611
@@ -162,7 +162,7 @@
         "px_achat": 238.34,
         "px_actuel": 317.3,
         "dcf_cible": 400.0,
-        "valeur_chf": 16232.0,
+        "valeur_chf": 16302.0,
         "perf_tot": 0.331,
         "ytd": -0.095,
         "upside": 0.26063662149385436
@@ -174,7 +174,7 @@
         "px_achat": 859.38,
         "px_actuel": 1019.0,
         "dcf_cible": 1250.0,
-        "valeur_chf": 16038.0,
+        "valeur_chf": 16107.0,
         "perf_tot": 0.18600000000000003,
         "ytd": -0.048,
         "upside": 0.2266928361138371
@@ -186,7 +186,7 @@
         "px_achat": 458.51,
         "px_actuel": 417.5,
         "dcf_cible": 534.0,
-        "valeur_chf": 13141.0,
+        "valeur_chf": 13198.0,
         "perf_tot": -0.09,
         "ytd": -0.201,
         "upside": 0.27904191616766466
@@ -198,7 +198,7 @@
         "px_achat": 480.73,
         "px_actuel": 471.5,
         "dcf_cible": 510.0,
-        "valeur_chf": 22264.0,
+        "valeur_chf": 22359.0,
         "perf_tot": -0.019,
         "ytd": -0.062,
         "upside": 0.0816542948038176
@@ -210,7 +210,7 @@
         "px_achat": 1831.52,
         "px_actuel": 1787.5,
         "dcf_cible": 2000.0,
-        "valeur_chf": 22507.0,
+        "valeur_chf": 22604.0,
         "perf_tot": -0.024,
         "ytd": -0.16899999999999998,
         "upside": 0.11888111888111888
@@ -220,48 +220,48 @@
         "name": "Nan",
         "ticker": "WKL",
         "px_achat": 72.77,
-        "px_actuel": 61.66,
+        "px_actuel": 61.22,
         "dcf_cible": 108.0,
-        "valeur_chf": 12984.0,
-        "perf_tot": -0.153,
-        "ytd": -0.307,
-        "upside": 0.7515407071034708
+        "valeur_chf": 12910.0,
+        "perf_tot": -0.159,
+        "ytd": -0.312,
+        "upside": 0.7641293694870958
     },
     {
         "style": "QUALITY",
         "name": "Nan",
         "ticker": "EPA:ENX",
         "px_achat": 126.21,
-        "px_actuel": 135.7,
+        "px_actuel": 135.6,
         "dcf_cible": 154.0,
-        "valeur_chf": 12424.0,
-        "perf_tot": 0.075,
-        "ytd": 0.06,
-        "upside": 0.1348563006632278
+        "valeur_chf": 12433.0,
+        "perf_tot": 0.07400000000000001,
+        "ytd": 0.059000000000000004,
+        "upside": 0.1356932153392331
     },
     {
         "style": "QUALITY",
         "name": "Nan",
         "ticker": "SQN.SW",
         "px_achat": 30.12,
-        "px_actuel": 39.2,
+        "px_actuel": 39.0,
         "dcf_cible": 49.0,
-        "valeur_chf": 11772.0,
-        "perf_tot": 0.303,
-        "ytd": -0.19399999999999998,
-        "upside": 0.24999999999999992
+        "valeur_chf": 11712.0,
+        "perf_tot": 0.29600000000000004,
+        "ytd": -0.198,
+        "upside": 0.2564102564102564
     },
     {
         "style": "QUALITY",
         "name": "Nan",
         "ticker": "PGHN.SW",
         "px_achat": 926.34,
-        "px_actuel": 820.8,
+        "px_actuel": 673.4,
         "dcf_cible": 1155.0,
-        "valeur_chf": 13133.0,
-        "perf_tot": -0.114,
-        "ytd": -0.203,
-        "upside": 0.40716374269005856
+        "valeur_chf": 10774.0,
+        "perf_tot": -0.273,
+        "ytd": -0.34600000000000003,
+        "upside": 0.7151767151767152
     },
     {
         "style": "QUALITY",
@@ -270,7 +270,7 @@
         "px_achat": 127.69,
         "px_actuel": 136.1,
         "dcf_cible": 0.0,
-        "valeur_chf": 5355.0,
+        "valeur_chf": 5378.0,
         "perf_tot": 0.066,
         "ytd": -0.10400000000000001,
         "upside": 0.0
@@ -282,7 +282,7 @@
         "px_achat": 119.63,
         "px_actuel": 56.46,
         "dcf_cible": 70.0,
-        "valeur_chf": 8887.0,
+        "valeur_chf": 8925.0,
         "perf_tot": -0.528,
         "ytd": -0.159,
         "upside": 0.2398157987956075
@@ -294,7 +294,7 @@
         "px_achat": 401.25,
         "px_actuel": 377.9,
         "dcf_cible": 400.0,
-        "valeur_chf": 14871.0,
+        "valeur_chf": 14934.0,
         "perf_tot": -0.057999999999999996,
         "ytd": 0.145,
         "upside": 0.05848107965070131
@@ -304,35 +304,35 @@
         "name": "Nan",
         "ticker": "EPA:SAF",
         "px_achat": 298.04,
-        "px_actuel": 298.0,
+        "px_actuel": 293.9,
         "dcf_cible": 343.0,
-        "valeur_chf": 5184.0,
-        "perf_tot": 0.0,
-        "ytd": -0.03,
-        "upside": 0.15100671140939598
+        "valeur_chf": 5120.0,
+        "perf_tot": -0.013999999999999999,
+        "ytd": -0.043,
+        "upside": 0.1670636270840423
     },
     {
         "style": "QUALITY",
         "name": "Nan",
         "ticker": "VNA.DE",
         "px_achat": 42.22,
-        "px_actuel": 20.82,
+        "px_actuel": 20.46,
         "dcf_cible": 33.0,
-        "valeur_chf": 15249.0,
-        "perf_tot": -0.507,
-        "ytd": -0.15,
-        "upside": 0.585014409221902
+        "valeur_chf": 15007.0,
+        "perf_tot": -0.515,
+        "ytd": -0.16399999999999998,
+        "upside": 0.6129032258064515
     },
     {
         "style": "QUALITY",
         "name": "Nan",
         "ticker": "CSSPX.SW",
         "px_achat": 600.73,
-        "px_actuel": 819.4,
+        "px_actuel": 817.0,
         "dcf_cible": 0.0,
-        "valeur_chf": 216024.0,
-        "perf_tot": 0.364,
-        "ytd": 0.107,
+        "valeur_chf": 216315.0,
+        "perf_tot": 0.36,
+        "ytd": 0.10400000000000001,
         "upside": 0.0
     },
     {
@@ -340,11 +340,11 @@
         "name": "Nan",
         "ticker": "EIMI.SW",
         "px_achat": 40.91,
-        "px_actuel": 57.6,
+        "px_actuel": 57.13,
         "dcf_cible": 0.0,
-        "valeur_chf": 81594.0,
-        "perf_tot": 0.408,
-        "ytd": 0.27699999999999997,
+        "valeur_chf": 81275.0,
+        "perf_tot": 0.396,
+        "ytd": 0.266,
         "upside": 0.0
     },
     {
@@ -352,11 +352,11 @@
         "name": "Nan",
         "ticker": "EMUCHF.SW",
         "px_achat": 18.87,
-        "px_actuel": 27.48,
+        "px_actuel": 27.4,
         "dcf_cible": 0.0,
-        "valeur_chf": 76930.0,
-        "perf_tot": 0.456,
-        "ytd": 0.07400000000000001,
+        "valeur_chf": 76706.0,
+        "perf_tot": 0.452,
+        "ytd": 0.071,
         "upside": 0.0
     },
     {
@@ -376,11 +376,11 @@
         "name": "Nan",
         "ticker": "USD/CHF",
         "px_achat": 0.0,
-        "px_actuel": 0.787,
+        "px_actuel": 0.7904,
         "dcf_cible": 0.0,
         "valeur_chf": 0.0,
         "perf_tot": 0.0,
-        "ytd": -0.008,
+        "ytd": -0.004,
         "upside": 0.0
     },
     {
@@ -400,11 +400,11 @@
         "name": "Nan",
         "ticker": "USD/CHF",
         "px_achat": 0.0,
-        "px_actuel": 0.787,
+        "px_actuel": 0.7904,
         "dcf_cible": 0.0,
         "valeur_chf": 0.0,
         "perf_tot": 0.0,
-        "ytd": -0.008,
+        "ytd": -0.004,
         "upside": 0.0
     },
     {
@@ -412,11 +412,11 @@
         "name": "Nan",
         "ticker": "IWDC.SW",
         "px_achat": 0.0,
-        "px_actuel": 93.82,
+        "px_actuel": 93.66,
         "dcf_cible": 0.0,
         "valeur_chf": 0.0,
         "perf_tot": 0.0,
-        "ytd": 0.08,
+        "ytd": 0.078,
         "upside": 0.0
     }
 ]
